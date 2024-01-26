@@ -5,6 +5,8 @@ Eu sou Gustavo, Um apaixonado pela área de Dados que gosta muito de Tecnologia.
 
 ## Projetos
 - [Dash Board Power BI] (https://bit.ly/3vQTR1J)
+- [Git Hub Repositories] (https://github.com/MrZalim?tab=repositories)
+
 
 ## Habilidades
 - Linguagens de Programação: Python, SQL, DAX, Power Query M, C#
